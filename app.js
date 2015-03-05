@@ -20,6 +20,6 @@ app.get('/api/search/:srch',function(req,res){
 })
 
 
-app.listen(8081)
+app.listen(process.env.PORT)
 
 console.log("App listening on port 8081")
