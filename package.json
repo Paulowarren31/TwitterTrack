@@ -1,0 +1,24 @@
+{
+  "name": "twitterTrackerAPI",
+  "version": "1.0.0",
+  "description": "tracks ur tweets sort of not really ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Paulowarren31/TwitterTrack.git"
+  },
+  "author": "Paulo Warren'",
+  "license": "k e k",
+  "bugs": {
+    "url": "https://github.com/Paulowarren31/TwitterTrack/issues"
+  },
+  "homepage": "https://github.com/Paulowarren31/TwitterTrack",
+  "dependencies": {
+    "cors": "^2.5.3",
+    "express": "^4.12.2",
+    "twit": "^1.1.20"
+  }
+}
